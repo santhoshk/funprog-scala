@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0m+ Heap.min1: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.min2: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.min3: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.min4: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.min5: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.min6: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.min7: OK, proved property.[0m
+[0m[[0minfo[0m] [0m+ Heap.isEmpty1: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.isEmpty2: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.isEmpty3: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.test1: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.count1: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.count2: OK, proved property.[0m
+[0m[[0minfo[0m] [0m+ Heap.count3: OK, proved property.[0m
+[0m[[0minfo[0m] [0m+ Heap.count4: OK, proved property.[0m
